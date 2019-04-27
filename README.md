@@ -10,4 +10,7 @@ git clone --recursive https://github.com/thaolt/lvgl-sim.git
 
 ## Screencast
 
-[![LVGL Simulator with QtCreator on Linux](https://img.youtube.com/vi/LfN4jLZFGLQ/0.jpg)](https://youtu.be/LfN4jLZFGLQ)
+<a href="https://youtu.be/LfN4jLZFGLQ" target="_blank">
+  <img src="https://img.youtube.com/vi/LfN4jLZFGLQ/mqdefault.jpg" alt="LVGL Simulator with QtCreator on Linux">
+</a>
+
